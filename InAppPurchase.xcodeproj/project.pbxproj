@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					568AF6241E9C779900D578D0 = {
 						CreatedOnToolsVersion = 8.3;
+						DevelopmentTeam = 35B2KE884X;
 						ProvisioningStyle = Automatic;
 					};
 					568AF6381E9C779900D578D0 = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 35B2KE884X;
 				INFOPLIST_FILE = InAppPurchase/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Charles.InAppPurchase;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 35B2KE884X;
 				INFOPLIST_FILE = InAppPurchase/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Charles.InAppPurchase;
